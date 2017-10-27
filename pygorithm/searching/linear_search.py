@@ -3,7 +3,7 @@
 
 # Best O(1); Average O(n); Worst O(n)
 
-# sequential search algorithm
+# Sequential Search Algo
 def search(List, target):
     '''This function returns the position of the target if found else returns -1'''
     position = 0
