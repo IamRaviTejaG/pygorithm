@@ -1,4 +1,4 @@
-# Arey bhai bhai bhai bhai bhai
+# Pehle nagar paalika ko bulao
 from setuptools import setup, find_packages
 # To use a consistent encoding
 from codecs import open
